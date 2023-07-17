@@ -1,0 +1,20 @@
+E - COMMERECE DATA ANALYSIS						
+						
+OBJECTIVE						
+Use Excel to analyze the sales based on various product categories.						
+						
+SAMPLE QUESTIONS 						
+Prepare a table of Sales and Profit month-wise in a working sheet						
+Prepare the sales table region-wise in the working sheet						
+Create a Column Chart of the month-wise table and region-wise table						
+Create User Control Combo box for Product Category						
+Link the table with a combo box						
+						
+						
+KEY FEATURE IMPLEMENTATION:						
+How we performed Data Cleaning						
+How we performed Data Processing						
+How we performed Data Analysis						
+How we performed Data Visualization						
+How we created reports/Dashboard						
+How we performed insights and next step to the client						
